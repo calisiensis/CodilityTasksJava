@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="BinaryGapTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2019-04-27T11:59:26" hostname="TOMSCH" time="0.004">
+  <properties/>
+  <testcase name="binaryGapTestOne" classname="BinaryGapTests" time="0.003"/>
+  <testcase name="binaryGapTestTwo" classname="BinaryGapTests" time="0.0"/>
+  <testcase name="binaryGapTestFive" classname="BinaryGapTests" time="0.0"/>
+  <testcase name="binaryGapTestFour" classname="BinaryGapTests" time="0.0"/>
+  <testcase name="binaryGapTestThree" classname="BinaryGapTests" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
