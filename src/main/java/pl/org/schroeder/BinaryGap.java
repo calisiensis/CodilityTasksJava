@@ -3,6 +3,8 @@ package pl.org.schroeder;
 import java.util.ArrayList;
 import java.util.List;
 
+/*Codility - task 1 - Binary Gap*/
+
 public class BinaryGap {
 
     public static int solution(int N) {
