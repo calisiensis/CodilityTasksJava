@@ -10,7 +10,7 @@ public class BinaryGap {
     public static int solution(int N) {
         String binaryNumber = Integer.toBinaryString(N);
         int longestBinaryGap = 0;
-        
+
         // this part of code is responsible for collecting ones into arrayList
         List<Integer> listOfOnes = new ArrayList<>();
 
